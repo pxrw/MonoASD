@@ -6,7 +6,7 @@
 
 This is the repo of MonoASD: Align and Select Distillation for Monocular 3D Object Detection.
 
-![avar](E:\PHD\论文\Distillation-AAAI\MonoASD\img\framework.jpg)
+<img src = 'img/framework.jpg'>
 
 ---
 
